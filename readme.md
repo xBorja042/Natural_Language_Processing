@@ -4,3 +4,7 @@ Those that are particularly academic start with X_.
 ## fft_fine_tuning
 
 This project contains the files that do web_scrapping task and it contains a notebook that explains how to perform fine tuning on the wikipedia fasttext model.
+
+## NLP_text_generation
+
+Tryouts related to the topic of generating text.
